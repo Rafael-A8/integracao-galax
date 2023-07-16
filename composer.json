@@ -1,0 +1,8 @@
+{
+    "name": "integracao/galax",
+    "autoload": {
+        "psr-4": {
+            "App\\":"app"
+        }
+    }
+}
